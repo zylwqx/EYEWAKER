@@ -16,7 +16,7 @@ import serial # Serial communication to Arduino
 
 def main():
     # Talking to Arduino
-    arduino = serial.Serial(port='COM5', baudrate=9600, timeout=1)
+    arduino = serial.Serial(port='COM5', baudrate=9600, timeout=1) # Change COM# to your Arduinos COM port
     time.sleep(2)
 
     # Load Haar cascades for face and eye detection

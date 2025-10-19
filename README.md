@@ -1,8 +1,8 @@
 <h1>EyeWaker</h1>
 <h3>Authors: Kevin Poon, Trevor Kwong, Bryan Servin, Max Leung</h3>
-
-<h3>READ ME</h3>
 This is a project by Group 9 for the WEI x ESSS Hackathon
+<h3>Instructions</h3>
+
 
 
 1. Connect your Arduino and circuit to your laptop/computer.
